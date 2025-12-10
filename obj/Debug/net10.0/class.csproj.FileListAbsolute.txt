@@ -12,3 +12,4 @@ C:\Users\MSI\Desktop\class\obj\Debug\net10.0\refint\class.dll
 C:\Users\MSI\Desktop\class\obj\Debug\net10.0\class.pdb
 C:\Users\MSI\Desktop\class\obj\Debug\net10.0\class.genruntimeconfig.cache
 C:\Users\MSI\Desktop\class\obj\Debug\net10.0\ref\class.dll
+C:\Users\MSI\Desktop\class\obj\Debug\net10.0\class.sourcelink.json
